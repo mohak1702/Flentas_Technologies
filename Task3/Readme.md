@@ -56,7 +56,4 @@ Internet → Public Subnets → ALB → Private Subnets → EC2 (ASG)
 
 ---
 
-## ⚙️ **How to Deploy**
-### 1. Clone the Repository
-```bash
 
