@@ -1,6 +1,7 @@
 # Static Resume Website Deployment on AWS EC2
 
 ## Overview
+Visit http://40.192.119.95/ to check static resume
 This project demonstrates hosting a personal resume as a static website on an AWS EC2 instance using Nginx. The website includes `index.html`, `style.css`, and a profile image.
 
 ## Steps to Deploy
